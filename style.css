@@ -1,0 +1,20 @@
+h1{
+    font-family: 'Playfair Display', serif;
+    font-weight: bolder;
+    font-size: xx-large;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+#header{
+    color: rgb(255, 153, 0);
+    margin-top: auto;
+
+}
+
+p{
+    margin-left: 100px;
+}
+ul{
+    margin-left: 100px;
+}
