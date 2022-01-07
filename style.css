@@ -1,20 +1,129 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 h1{
     font-family: 'Playfair Display', serif;
     font-weight: bolder;
     font-size: xx-large;
-    margin-left: 100px;
+    margin-left: 70px;
     margin-top: 50px;
+    margin-bottom: 0px;
 }
-
 #header{
     color: rgb(255, 153, 0);
     margin-top: auto;
-
+    margin-bottom: 3%;
 }
-
-p{
-    margin-left: 100px;
+.font{
+    font-size: 15px;
+    margin: 0px 70px;
+    
 }
-ul{
-    margin-left: 100px;
+#font-size{
+    margin-bottom: 5%;
+}
+#scroll{
+    margin-top: 5%;
+}
+.size{
+    width: 50%;
+    padding: 20px 30px;
+    margin-right: 20px;
+}
+#image img{
+    margin-left: 20px;
+    margin-top: 80px;
+    width: 90%;
+    height: 80%;
+    border-radius: 10px;
+}
+section{
+    display: flex;
+}
+.link-button{
+    color: white;
+    margin-top: 50%;
+    margin-left: 70px;
+    text-decoration: none;
+    background-color: rgba(255, 0, 43, 0.808);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+#title{
+    text-align: center;
+}
+#title span{
+    color: rgb(255, 153, 0);
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 2000px;
+}
+.margin{
+    margin-left: 50px;
+}
+.size img{
+    margin-left: 0px;
+    width: 50%;
+    height: 50%;
+}
+#background1{
+    margin-top: 50px;
+    margin-left: 30px;
+    background-image: url(shape2.jpg);
+    background-repeat: no-repeat; 
+    border-radius: 20px;
+}
+#background2{
+    margin-top: 50px;
+    margin-left: 30px;
+    background-image: url(shape\ 1.jpg);
+    background-repeat: no-repeat; 
+    border-radius: 20px;
+}
+#background3{
+    margin-top: 50px;
+    margin-left: 30px;
+    background-image: url(shape3.jpg);
+    background-repeat: no-repeat; 
+    border-radius: 20px;
+}
+.community{
+    margin-top: 50px;
+    background-image: url(th.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+.member{
+    margin-left: 10%;
+    margin-top: 8%;
+}
+.member img{
+    margin-top: 8%;
+    
+}
+#para{
+    margin-top: 3%;
+    margin-bottom: 5%;
+    padding-right: 5%;
+}
+.duties{
+    margin-top: 3%;
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-position: unset;
+    background-size: 50%;
+}
+footer{
+    background-color: black;
+}
+footer h1{
+    text-align: center;
+    color: white;
+}
+footer p{
+    text-align: center;
+    color: white;
+    padding-left: 5%;
 }
