@@ -5,9 +5,16 @@ h1{
     font-family: 'Playfair Display', serif;
     font-weight: bolder;
     font-size: xx-large;
-    margin-left: 70px;
+    margin-left: 20px;
     margin-top: 50px;
     margin-bottom: 0px;
+}
+.name{
+    margin-left: 70px;
+}
+#border{
+    margin-left: 12%;
+    border-left: 5px solid tomato;
 }
 #header{
     color: rgb(255, 153, 0);
